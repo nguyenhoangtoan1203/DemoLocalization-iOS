@@ -1,0 +1,10 @@
+//
+//  Localizable.strings
+//  DemoLocalization
+//
+//  Copyright (c) 2012 ToanNH9. All rights reserved.
+//
+
+/* Text for Label */
+"Hello" = "Hello in En";
+
